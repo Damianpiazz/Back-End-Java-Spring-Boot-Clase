@@ -1,5 +1,14 @@
 # Back-End-Java-Spring-Boot-Clase
 
+> ⚠️ **IMPORTANTE:**  
+> Revisa la carpeta **[`/clase-14`](./clase-14/)** — aquí se encuentra el **último avance del backend trabajado en clase** antes de la entrega final del curso.  
+> Incluye integración con el frontend, configuración de **CORS**, y pruebas completas de comunicación **API REST ↔️ Frontend**.
+
+> 🚀 **PROYECTO FINAL:**  
+> El proyecto final del curso se encuentra en **otro repositorio**.  
+> 🔗 Puedes acceder al repositorio del proyecto final aquí:  
+> 👉 [Ver Proyecto Final](https://github.com/Damianpiazz/Back-End-Java-Spring-Boot-Proyecto-Final)  
+
 Este repositorio contiene el desarrollo completo del **curso de Back-End con Java y Spring Boot**, desde la creación inicial del proyecto hasta la integración total con un frontend y la presentación final de los proyectos.
 
 A lo largo de las clases 10 a 16, se abordaron los fundamentos del desarrollo backend moderno utilizando **Spring Boot**, **JPA**, **MySQL**, **Docker**, **Swagger** y buenas prácticas de arquitectura y diseño.
